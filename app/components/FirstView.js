@@ -18,7 +18,7 @@ const FirstView = () => {
       setTimeout(() => {
         setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
       }, 200);
-    }, 8000);
+    }, 4000);
     return () => clearInterval(interval);
   }, []);
 
