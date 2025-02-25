@@ -24,8 +24,8 @@ async function Home() {
             className="w-full object-cover"
           />
         </div>
-        <a href="/ourService" className="inline-block mt-4 px-6 py-3 bg-blue-600 text-white rounded-full shadow hover:bg-blue-700 transition">
-          詳しくはこちら
+        <a href="https://page.theapps.jp/paid/join/A8hv3G40M25l54n9" className="apps-af inline-block mt-4 px-6 py-3 bg-blue-600 text-white rounded-full shadow hover:bg-blue-700 transition">
+         アフィリの決済リンクにつながるボタン
         </a>
       </div>
     

@@ -17,6 +17,7 @@ export default function RootLayout({ children }) {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
         <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@100..900&display=swap" rel="stylesheet" />
+        <script src="https://admin.theapps.jp/htdocs/js/spf.js"></script>
       </head>
       <body className="">
       <header className="fixed top-0 left-0 right-0 flex items-center justify-between p-4 bg-transparent z-50">
